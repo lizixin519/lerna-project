@@ -1,7 +1,8 @@
 'use strict';
 
-module.exports = demoCommon;
-
+import add from '@lerna-project/demo-core';
 function demoCommon() {
-    // TODO
+    return add(a, b) * 2;
 }
+
+export default demoCommon;
