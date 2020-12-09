@@ -1,0 +1,32 @@
+{
+  "name": "@lerna-project/demo-common",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "李紫鑫 <lizixin@boco.com.cn>",
+  "homepage": "https://github.com/lizixin519/lerna-project#readme",
+  "license": "ISC",
+  "main": "lib/demo-common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:3002/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizixin519/lerna-project.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lizixin519/lerna-project/issues"
+  },
+  "dependencies": {
+    "@lerna-project/demo-core": "^1.0.0"
+  }
+}
