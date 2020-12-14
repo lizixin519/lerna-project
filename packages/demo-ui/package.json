@@ -1,6 +1,6 @@
 {
     "name": "@lerna-project/demo-ui",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "> TODO: description",
     "author": "李紫鑫 <lizixin@boco.com.cn>",
     "homepage": "",
@@ -20,7 +20,7 @@
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
     "dependencies": {
-        "@lerna-project/demo-core": "^1.1.1",
+        "@lerna-project/demo-core": "^1.1.2",
         "react": "^17.0.1",
         "react-dom": "^17.0.1"
     }
