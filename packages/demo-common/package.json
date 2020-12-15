@@ -1,6 +1,6 @@
 {
   "name": "@lerna-project/demo-common",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "李紫鑫 <lizixin@boco.com.cn>",
   "homepage": "https://github.com/lizixin519/lerna-project#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/lizixin519/lerna-project/issues"
   },
   "dependencies": {
-    "@lerna-project/demo-core": "^1.1.2"
+    "@lerna-project/demo-core": "^1.1.3"
   }
 }
